@@ -1,0 +1,28 @@
+### JAVA / MAVEN ###
+target/
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+
+### INTELLIJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### VS CODE ###
+.vscode/
+
+### MAC OS / WINDOWS ###
+.DS_Store
+Thumbs.db
+
+### MAVEN WRAPPER ###
+.mvn/
+mvnw
+mvnw.cmd
